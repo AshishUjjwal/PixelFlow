@@ -7,7 +7,7 @@
 
 
 <p align="center">
-  <img src="public/pixelflow.png" alt="PixelFlow Logo" width="64" />
+  <img src="public/PixelFlow.png" alt="PixelFlow Logo" width="64" />
   <br />
   <br />
 	<a href="https://trendshift.io/repositories/17427" target="_blank"><img src="https://trendshift.io/api/badge/repositories/17427" alt="AshishUjjwal%2Fpixelflow | Trendshift" style="width: 256px; height: 64px;" width="256" height="64"/></a>
