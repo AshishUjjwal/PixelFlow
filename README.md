@@ -1,5 +1,5 @@
 > [!Note]
-> PixelFlow is now archived and no longer maintained. For continued maintenance and development, a community-driven spin-off led by one of the core contributors is available here: https://github.com/EtienneLescot/pixelflow
+> PixelFlow is now archived and no longer maintained. For continued maintenance and development, a community-driven spin-off led by one of the core contributors is available here: https://github.com/AshishUjjwal/pixelflow
 
 
 > [!WARNING]
